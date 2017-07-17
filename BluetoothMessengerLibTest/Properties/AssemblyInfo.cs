@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BluetoothMessengerLib")]
+[assembly: AssemblyTitle("BluetoothMessengerLibTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BluetoothMessengerLib")]
+[assembly: AssemblyProduct("BluetoothMessengerLibTest")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("136cb681-6ec3-4677-a85e-1f6aaf0de924")]
+[assembly: Guid("915aa2af-68e0-4572-b2c6-5a9c1601800c")]
 
 // Version information for an assembly consists of the following four values:
 //
